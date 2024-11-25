@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "Sechify T-Shirt",
+        "description": "A comfortable and stylish T-Shirt from Sechify.",
+        "price": 199.99,
+        "stock": 50,
+        "created_at": "2024-11-25T10:00:00Z"
+    },
+    {
+        "id": "2",
+        "name": "Sechify Hoodie",
+        "description": "A warm hoodie for cold days.",
+        "price": 299.99,
+        "stock": 30,
+        "created_at": "2024-11-24T10:00:00Z"
+    }
+]
