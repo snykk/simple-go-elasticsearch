@@ -1,18 +1,242 @@
 [
     {
         "id": "1",
-        "name": "Sechify T-Shirt",
-        "description": "A comfortable and stylish T-Shirt from Sechify.",
-        "price": 199.99,
-        "stock": 50,
-        "created_at": "2024-11-25T10:00:00Z"
+        "name": "Laptop Gaming ASUS ROG",
+        "description": "Laptop gaming dengan processor Intel Core i7 dan kartu grafis NVIDIA GeForce GTX 1660 Ti.",
+        "price": 15000,
+        "stock": 25,
+        "created_at": "2024-11-25T12:30:00Z"
     },
     {
         "id": "2",
-        "name": "Sechify Hoodie",
-        "description": "A warm hoodie for cold days.",
-        "price": 299.99,
+        "name": "Smartphone Samsung Galaxy S21",
+        "description": "Smartphone dengan kamera 108MP dan layar 120Hz.",
+        "price": 10000,
+        "stock": 50,
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "3",
+        "name": "Smartwatch Apple Watch Series 8",
+        "description": "Jam tangan pintar dengan fitur deteksi detak jantung dan pelacakan tidur.",
+        "price": 5000,
+        "stock": 75,
+        "created_at": "2024-11-25T12:15:00Z"
+    },
+    {
+        "id": "4",
+        "name": "Headphone Bose QuietComfort 35",
+        "description": "Headphone noise-cancelling dengan suara jernih dan nyaman untuk digunakan seharian.",
+        "price": 3000,
+        "stock": 40,
+        "created_at": "2024-11-25T12:20:00Z"
+    },
+    {
+        "id": "5",
+        "name": "Laptop Dell XPS 13",
+        "description": "Laptop tipis dan ringan dengan layar 13 inci dan processor Intel Core i5.",
+        "price": 9000,
         "stock": 30,
-        "created_at": "2024-11-24T10:00:00Z"
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "6",
+        "name": "Smartphone Xiaomi Mi 11",
+        "description": "Smartphone flagship dengan Snapdragon 888 dan layar AMOLED 120Hz.",
+        "price": 8500,
+        "stock": 60,
+        "created_at": "2024-11-25T12:45:00Z"
+    },
+    {
+        "id": "7",
+        "name": "Keyboard Mechanical Razer Huntsman",
+        "description": "Keyboard mekanik dengan switch opto-mechanical dan RGB lighting.",
+        "price": 2000,
+        "stock": 15,
+        "created_at": "2024-11-25T12:30:00Z"
+    },
+    {
+        "id": "8",
+        "name": "Tablet Apple iPad Pro 12.9",
+        "description": "Tablet premium dengan layar Liquid Retina XDR dan chip M1.",
+        "price": 22000,
+        "stock": 20,
+        "created_at": "2024-11-25T12:15:00Z"
+    },
+    {
+        "id": "9",
+        "name": "Action Camera GoPro Hero 10",
+        "description": "Kamera aksi dengan kemampuan merekam 5.3K dan tahan air hingga 10 meter.",
+        "price": 7500,
+        "stock": 35,
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "10",
+        "name": "Monitor LG UltraWide 34 Inch",
+        "description": "Monitor ultrawide dengan resolusi 2560x1080 dan refresh rate 75Hz.",
+        "price": 6000,
+        "stock": 10,
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "11",
+        "name": "Laptop HP Spectre x360",
+        "description": "Laptop convertible dengan processor Intel Core i7 dan layar 4K OLED.",
+        "price": 18000,
+        "stock": 18,
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "12",
+        "name": "Smartphone OnePlus 9 Pro",
+        "description": "Smartphone premium dengan Snapdragon 888 dan pengisian cepat 65W.",
+        "price": 11000,
+        "stock": 40,
+        "created_at": "2024-11-25T12:45:00Z"
+    },
+    {
+        "id": "13",
+        "name": "Smartwatch Garmin Fenix 6",
+        "description": "Jam tangan pintar outdoor dengan GPS dan pelacakan aktivitas.",
+        "price": 6000,
+        "stock": 30,
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "14",
+        "name": "Bluetooth Speaker JBL Charge 5",
+        "description": "Speaker portabel dengan daya tahan baterai hingga 20 jam dan suara yang kuat.",
+        "price": 3500,
+        "stock": 50,
+        "created_at": "2024-11-25T12:10:00Z"
+    },
+    {
+        "id": "15",
+        "name": "External Hard Drive Seagate 1TB",
+        "description": "Hard drive eksternal dengan kapasitas 1TB dan kecepatan transfer data tinggi.",
+        "price": 1500,
+        "stock": 70,
+        "created_at": "2024-11-25T12:30:00Z"
+    },
+    {
+        "id": "16",
+        "name": "Laptop Lenovo ThinkPad X1 Carbon",
+        "description": "Laptop bisnis premium dengan processor Intel Core i7 dan keyboard ergonomis.",
+        "price": 20000,
+        "stock": 25,
+        "created_at": "2024-11-25T12:00:00Z"
+    },
+    {
+        "id": "17",
+        "name": "Smartphone Google Pixel 6",
+        "description": "Smartphone dengan kamera AI canggih dan integrasi Google Assistant.",
+        "price": 9500,
+        "stock": 45,
+        "created_at": "2024-12-25T12:20:00Z"
+    },
+    {
+        "id": "18",
+        "name": "Smartwatch Fitbit Sense",
+        "description": "Jam tangan pintar dengan pelacakan kesehatan dan pemantauan stres.",
+        "price": 4000,
+        "stock": 55,
+        "created_at": "2024-12-25T12:10:00Z"
+    },
+    {
+        "id": "19",
+        "name": "Laptop Acer Predator Helios 300",
+        "description": "Laptop gaming dengan kartu grafis NVIDIA GeForce RTX 3060 dan processor Intel i7.",
+        "price": 17000,
+        "stock": 33,
+        "created_at": "2024-12-25T12:30:00Z"
+    },
+    {
+        "id": "20",
+        "name": "Action Camera DJI Osmo Action",
+        "description": "Kamera aksi dengan stabilisasi gimbal dan perekaman 4K.",
+        "price": 8000,
+        "stock": 20,
+        "created_at": "2024-12-25T12:50:00Z"
+    },
+    {
+        "id": "21",
+        "name": "Headphone Sony WH-1000XM4",
+        "description": "Headphone dengan noise cancellation terbaik dan kualitas suara premium.",
+        "price": 4500,
+        "stock": 35,
+        "created_at": "2024-12-25T12:00:00Z"
+    },
+    {
+        "id": "22",
+        "name": "Smartphone Oppo Find X3 Pro",
+        "description": "Smartphone dengan kamera 50MP dan layar 120Hz.",
+        "price": 9500,
+        "stock": 60,
+        "created_at": "2024-12-25T12:00:00Z"
+    },
+    {
+        "id": "23",
+        "name": "Laptop MSI GE66 Raider",
+        "description": "Laptop gaming dengan kartu grafis NVIDIA GeForce RTX 3070 dan layar 240Hz.",
+        "price": 23000,
+        "stock": 12,
+        "created_at": "2024-12-25T12:00:00Z"
+    },
+    {
+        "id": "24",
+        "name": "Tablet Samsung Galaxy Tab S7+",
+        "description": "Tablet premium dengan layar Super AMOLED 12.4 inci dan Snapdragon 865+.",
+        "price": 18000,
+        "stock": 17,
+        "created_at": "2024-12-25T12:00:00Z"
+    },
+    {
+        "id": "25",
+        "name": "Smartwatch Amazfit GTR 3",
+        "description": "Jam tangan pintar dengan baterai tahan lama dan pelacakan olahraga.",
+        "price": 3000,
+        "stock": 50,
+        "created_at": "2024-12-25T12:10:00Z"
+    },
+    {
+        "id": "26",
+        "name": "Bluetooth Earbuds Apple AirPods Pro",
+        "description": "Earbuds dengan noise cancellation dan suara berkualitas tinggi.",
+        "price": 4000,
+        "stock": 70,
+        "created_at": "2024-12-25T12:10:00Z"
+    },
+    {
+        "id": "27",
+        "name": "Monitor Samsung Odyssey G7",
+        "description": "Monitor gaming dengan layar lengkung 27 inci dan refresh rate 240Hz.",
+        "price": 11000,
+        "stock": 12,
+        "created_at": "2024-12-25T12:00:00Z"
+    },
+    {
+        "id": "28",
+        "name": "Laptop MacBook Pro M1",
+        "description": "Laptop dengan chip M1, performa cepat dan baterai tahan lama.",
+        "price": 25000,
+        "stock": 10,
+        "created_at": "2024-12-25T12:20:00Z"
+    },
+    {
+        "id": "29",
+        "name": "Smartphone Huawei Mate 40 Pro",
+        "description": "Smartphone dengan processor Kirin 9000 dan kemampuan 5G.",
+        "price": 11500,
+        "stock": 23,
+        "created_at": "2024-12-25T12:00:00Z"
+    },
+    {
+        "id": "30",
+        "name": "Action Camera Insta360 One X2",
+        "description": "Kamera aksi 360 derajat dengan stabilisasi dan perekaman 5.7K.",
+        "price": 9500,
+        "stock": 25,
+        "created_at": "2024-12-25T12:00:00Z"
     }
 ]
